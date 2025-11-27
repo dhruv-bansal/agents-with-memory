@@ -23,7 +23,6 @@ ENV/
 .ipynb_checkpoints/
 
 # IDE-specific ignores
-.vscode/
 .idea/
 *.swp
 *.swo
